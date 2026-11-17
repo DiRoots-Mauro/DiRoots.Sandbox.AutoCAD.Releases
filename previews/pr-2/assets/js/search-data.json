@@ -115,7 +115,7 @@
   },"19": {
     "doc": "About",
     "title": "Core Features",
-    "content": ". | Filter Objects and Layers. | Filter Objects and Layers by their associated data or properties. | Create conditions rules to filter objects and layers based on their properties and datas. | Quick visualization by isolating or selecting objects in the view. | Save rule sets in profiles for sharing | . Download . Preview flow test AutoCAD first commit. ",
+    "content": ". | Filter Objects and Layers. | Filter Objects and Layers by their associated data or properties. | Create conditions rules to filter objects and layers based on their properties and datas. | Quick visualization by isolating or selecting objects in the view. | Save rule sets in profiles for sharing | . Download . Preview flow test AutoCAD second commit. ",
     "url": "/DiRoots.Sandbox.AutoCAD.Releases/previews/pr-2/#core-features",
     "relUrl": "/#core-features"
   },"20": {
