@@ -22,3 +22,7 @@ DiRootsOne is a single application bundle that includes free Autodesk AutoCAD Pl
 - Save rule sets in profiles for sharing
 
 [Download](https://diroots.com/autocad-plugins/dirootsone-for-autocad/){: .btn .btn-di-orange }
+
+Preview flow test AutoCAD first commit.
+
+![Preview flow test image]({{ '/assets/images/preview-flow-test.png' | relative_url }})
